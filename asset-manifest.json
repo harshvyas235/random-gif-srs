@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/random-gif-starter/static/css/main.80c914da.css",
-    "main.js": "/random-gif-starter/static/js/main.35f113b4.js",
-    "index.html": "/random-gif-starter/index.html",
-    "main.80c914da.css.map": "/random-gif-starter/static/css/main.80c914da.css.map",
-    "main.35f113b4.js.map": "/random-gif-starter/static/js/main.35f113b4.js.map"
+    "main.css": "/random-gif-srs/static/css/main.80c914da.css",
+    "main.js": "/random-gif-srs/static/js/main.35f113b4.js",
+    "index.html": "/random-gif-srs/index.html",
+    "main.80c914da.css.map": "/random-gif-srs/static/css/main.80c914da.css.map",
+    "main.35f113b4.js.map": "/random-gif-srs/static/js/main.35f113b4.js.map"
   },
   "entrypoints": [
     "static/css/main.80c914da.css",
